@@ -31,15 +31,15 @@ npm init wasm-app www
 
 Here's what our new wasm-game-of-life/www subdirectory contains:
 
-wasm-life/www/
-├── bootstrap.js
-├── index.html
-├── index.js
-├── LICENSE-APACHE
-├── LICENSE-MIT
-├── package.json
-├── README.md
-└── webpack.config.js
+wasm-life/www/  
+├── bootstrap.js  
+├── index.html  
+├── index.js  
+├── LICENSE-APACHE  
+├── LICENSE-MIT  
+├── package.json  
+├── README.md  
+└── webpack.config.js  
 
 The index.js imports the entire module
 
