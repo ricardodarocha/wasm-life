@@ -2,6 +2,15 @@
 
 This is a Wasm test with Rust and Svelte following the tutorial https://blog.logrocket.com/integrating-svelte-app-rust-webassembly/
 
+## Clonning this
+
+```git
+git remote add origin https://github.com/ricardodarocha/wasm-life.git
+git branch -M main
+git push -u origin main
+
+```
+
 ## How it was made
 
 At an empty folder, made a new lib project
@@ -50,6 +59,6 @@ import * as crab from "../pkg";
 ```js
 cd www
 npm i
-npm run dev
+npm run start
 ```
 
