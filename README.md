@@ -1,6 +1,6 @@
 # wasm-life
 
-This is a Wasm test with Rust and Svelte following the tutorial https://blog.logrocket.com/integrating-svelte-app-rust-webassembly/
+This is a Wasm test with Rust and Svelte following the tutorial https://rustwasm.github.io/docs/book/game-of-life/implementing.html
 
 ## Clonning this
 
